@@ -8,4 +8,5 @@ Get all secondary capture images
 	Server is at www.dicomserver.co.uk  and Ports are 104 and 11112
 *****************
 
-1. python ./c2i_ucsf_task
+Execution mechanism 
+> python ./c2i_ucsf_task
